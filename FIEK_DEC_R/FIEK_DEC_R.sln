@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIEK_DEC_R", "FIEK_DEC_R\FIEK_DEC_R.csproj", "{EACC170B-A532-4780-8704-9874AAC6CC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACC170B-A532-4780-8704-9874AAC6CC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACC170B-A532-4780-8704-9874AAC6CC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACC170B-A532-4780-8704-9874AAC6CC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACC170B-A532-4780-8704-9874AAC6CC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6219381F-AB26-434A-BB9B-94179CF39932}
+	EndGlobalSection
+EndGlobal
